@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello World!
+- 👩🏻‍💻 I'm a backend developer, currently building e-commerce and data processing solutions at my day job.
+- 🔭 I’m currently working on a few hobby projects, some of which are pinned in my profile.
+- 🌱 I’m currently learning Go and TinyGo; improving my understanding of SQL beyond Django models; and messing with assembly for some reverse-engineering work.
+- 👯 I’m looking to collaborate on any interesting web-based projects, video game modding tools, or Linux scripts!
+- 📫 How to reach me: email me via isatsamdev [at\] gmail [dot\] com 
 
-<!--
-**isatsam/isatsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### Looking for opportunities!
+- 🙋🏻 I'm currently searching for a backend developer job (or a contract for 2+ years) in Republic of Ireland. I can work remote anywhere, or attend office within Dublin county.
+- Check out my full CV at [isatsam.net/cv](https://isatsam.net/cv)! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! If you see this comment, that website is offline, but I'll upload my CV soon. Sorry. 🫣 -->
